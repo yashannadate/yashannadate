@@ -17,12 +17,5 @@ React, OOP. (All basics)
  GitHub (basic)
 - Soft Skills: Communication, Problem-Solving, Critical Thinking, Teamwork
 
-## Contact
-
-- Email: yashannadate2005@gmail.com
-- LinkedIn: [/yashannadate19](https://www.linkedin.com/in/yashannadate19)
-
----
-
 Thanks for visiting my profile!
 
