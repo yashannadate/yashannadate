@@ -13,8 +13,7 @@ I'm an enthusiastic student passionate about blockchain technology and web devel
 - Languages & Tech: Blockchain Fundamentals, Solidity, C/C++ , HTML/CSS, JavaScript, Java,
 React, OOP. (Familiarity)
 - Database: SQL Fundamentals (basic querying and database concepts)
-- Tools & Platforms: VS Code, MetaMask Wallet, Hardhat, Web3
- GitHub. (Familiarity)
+- Tools & Platforms: VS Code, MetaMask Wallet, Remix IDE, GitHub. (Familiarity)
 - Soft Skills: Communication, Problem-Solving, Critical Thinking, Teamwork
 
 Thanks for visiting my profile!
