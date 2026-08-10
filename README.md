@@ -20,11 +20,6 @@
 
 ---
 
-### ⚡ Current Projects
-
-- 💧 **LumensFlow** — Real-time XLM payment streaming protocol built on Stellar using Soroban smart contracts. Non-custodial, second-by-second micro-transactions.
-
----
 
 ### 🛠 Tech Stack
 
@@ -63,7 +58,7 @@
 
 ### 📌 What I'm Doing
 
-- ⚡ **Soroban Smart Contracts** — Building and deploying production-grade contracts on Stellar Testnet
+- ⚡ **Smart Contracts** — Building and deploying production-grade contracts on EVM, Stellar, Midnight networks
 - 🤖 **AI Integration** — Experimenting with LLMs to enhance decentralized user experiences
 - 🎨 **Modern UI/UX** — Crafting fluid, glassmorphic interfaces for the next generation of Web3 apps
 - 🌍 **Open Source** — Contributing to Web3 tooling and participating in hackathons
